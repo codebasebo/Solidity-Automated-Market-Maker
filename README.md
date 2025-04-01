@@ -1,4 +1,4 @@
-Solidity AMM Pool
+
 # Solidity AMM Pool
 
 ## Overview
